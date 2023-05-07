@@ -1,0 +1,24 @@
+{
+  "name": "chesspuzzlestensorflow",
+  "version": "1.0.0",
+  "description": "indentification of chess pieces from an image to return a FEN code position",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damanosalvag/tf-chessPuzzles.git"
+  },
+  "author": "Dairo Manosalva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damanosalvag/tf-chessPuzzles/issues"
+  },
+  "homepage": "https://github.com/damanosalvag/tf-chessPuzzles#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
+    "parcel-bundler": "^1.12.5"
+  }
+}
