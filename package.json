@@ -1,21 +1,21 @@
 {
-  "name": "chesspuzzlestensorflow",
+  "name": "node-template",
   "version": "1.0.0",
-  "description": "indentification of chess pieces from an image to return a FEN code position",
+  "description": "template of node and js",
   "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/damanosalvag/tf-chessPuzzles.git"
+    "url": "git+https://github.com/damanosalvag/node-template.git"
   },
   "author": "Dairo Manosalva",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/damanosalvag/tf-chessPuzzles/issues"
+    "url": "https://github.com/damanosalvag/node-template/issues"
   },
-  "homepage": "https://github.com/damanosalvag/tf-chessPuzzles#readme",
+  "homepage": "https://github.com/damanosalvag/node-template#readme",
   "devDependencies": {
     "@babel/core": "^7.21.8",
     "@babel/preset-env": "^7.21.5",
